@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<h1>I'm a Freelance designer, Front end Developer and Digital Marketer</h1> 
+
+<h2> I design and code beautifully simple things, and I love what I do </h2> 
+
+
 <!--
 **niteshp55/niteshp55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
