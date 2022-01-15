@@ -2,11 +2,13 @@
 
 <h1>I'm a Freelance designer, Front end Developer and Digital Marketer</h1> 
 
-<h2> I design and code beautifully simple things, and I love what I do </h2> 
+<h2>The world is moving too quickly for brands and businesses to sit around and wait for the right moment. There's an arms race to capture your consumer's attention, and if you don't act now, someone else will. I work with brands and businesses that operate with a healthy dose of impatience to scale fast, connect with the culture, and steal back attention from their competitors. My mission is to help brands and businesses move forward with conversion-based web design to generate leads together with a marketing plan, brand strategy, and integrated brand campaigns, as well as writing content.</h2> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshp55)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=niteshp55)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshp55)](https://github.com/anuraghazra/github-readme-stats)
+
+![Farmers Market Finder Demo](demo/demo.gif)
 <!--
 **niteshp55/niteshp55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
