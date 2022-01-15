@@ -4,7 +4,7 @@
 
 <h2> I design and code beautifully simple things, and I love what I do </h2> 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshp55)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **niteshp55/niteshp55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
